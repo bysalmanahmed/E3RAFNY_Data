@@ -23,6 +23,16 @@
       "price_range": "35,000 - 37,500",
       "currency": "ج.م",
       "image_url": "https://raw.githubusercontent.com/bysalmanahmed/E3RAFNY_Data/main/dayun4.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "KEEWAY RK200-New",
+      "cc": 200,
+      "year": 2026,
+      "origin": "الصين",
+      "price_range": "48,000 - 51,000",
+      "currency": "ج.م",
+      "image_url": "https://raw.githubusercontent.com/bysalmanahmed/E3RAFNY_Data/main/r200.jpeg"
     }
   ]
 }
