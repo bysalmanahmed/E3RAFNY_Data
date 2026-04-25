@@ -1,4 +1,8 @@
 {
+  "app_config": {
+    "sponsor_image_url": "https://your-sponsor-image-link.png",
+    "sponsor_action_url": "https://facebook.com/your-sponsor-page"
+  },
   "motorcycles": [
     {
       "id": 1,
@@ -8,7 +12,7 @@
       "origin": "الصين",
       "price_range": "18,000 - 20,000",
       "currency": "ج.م",
-      "image_url": "https://via.placeholder.com/150"
+      "image_url": "https://via.placeholder.com/500x200"
     },
     {
       "id": 2,
@@ -18,17 +22,7 @@
       "origin": "الصين",
       "price_range": "22,000 - 24,500",
       "currency": "ج.م",
-      "image_url": "https://via.placeholder.com/150"
-    },
-    {
-      "id": 3,
-      "name": "حلاوة تايجر (Halawa Tiger)",
-      "cc": 150,
-      "year": 2026,
-      "origin": "الصين",
-      "price_range": "21,000 - 23,000",
-      "currency": "ج.م",
-      "image_url": "https://via.placeholder.com/150"
+      "image_url": "https://via.placeholder.com/500x200"
     }
   ]
 }
