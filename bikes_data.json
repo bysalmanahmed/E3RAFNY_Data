@@ -16,13 +16,13 @@
     },
     {
       "id": 2,
-      "name": "هوجان 3 (Haojian 3)",
+      "name": "دايون 4-جديد",
       "cc": 150,
       "year": 2026,
       "origin": "الصين",
-      "price_range": "22,000 - 24,500",
+      "price_range": "35,000 - 37,500",
       "currency": "ج.م",
-      "image_url": "https://via.placeholder.com/500x200"
+      "image_url": "https://raw.githubusercontent.com/bysalmanahmed/E3RAFNY_Data/main/dayun4.jpeg"
     }
   ]
 }
